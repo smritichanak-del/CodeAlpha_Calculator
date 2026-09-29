@@ -1,4 +1,4 @@
-# Scientific Calculator — CodeAlpha Internship
+# Scientific Calculator 
 
 A professional and responsive Scientific Calculator developed as part of the **CodeAlpha Frontend Development Internship — Task 2**.
 
@@ -53,13 +53,8 @@ CodeAlpha_Calculator/
 4. Run the project using **Live Server**.
 5. The Scientific Calculator will open in your browser.
 
-## 🎯 Internship Task
 
-**CodeAlpha Frontend Development Internship**
 
-**Task 2 — Build a Calculator**
-
-This project fulfills the calculator task requirements and includes additional scientific features as enhancements.
 
 ## 👩‍💻 Author
 
