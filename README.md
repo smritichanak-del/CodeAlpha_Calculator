@@ -1,6 +1,6 @@
 # Scientific Calculator 
 
-A professional and responsive Scientific Calculator developed as part of the **CodeAlpha Frontend Development Internship — Task 2**.
+A professional and responsive Scientific Calculator developed as part of the **Frontend Development**.
 
 ## 🚀 Project Overview
 
